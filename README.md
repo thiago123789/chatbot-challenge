@@ -9,10 +9,10 @@ docker-compose up -d
 
 ## Start your http server
 ```
-
+go run main.go
 ```
 
 ## Test it first!
 ```
-curl -XGET http://localhost:
+curl -X POST http://localhost:3002/chat -d '{"user":"TOTO","content":"visa"}'
 ```
