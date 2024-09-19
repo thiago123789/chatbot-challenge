@@ -1,0 +1,7 @@
+name: mybeacon
+runtime: go
+description: Codeing Challenge
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-go
