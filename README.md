@@ -5,6 +5,7 @@
 Features were implemented according to the requirements, but there are some points that could be improved.
 
 - Authorization/Authentication
+- API Payload validation
 
 ## Introduction
 
